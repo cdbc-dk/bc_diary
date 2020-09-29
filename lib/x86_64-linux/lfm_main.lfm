@@ -1,0 +1,8 @@
+object frmDailyDiary: TfrmDailyDiary
+  Left = 332
+  Height = 422
+  Top = 124
+  Width = 760
+  Caption = 'Your daily diary'
+  LCLVersion = '2.0.4.0'
+end

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="dayli_diary.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="18" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="lfm_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmDailyDiary"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="119"/>
+        <CursorPos X="39" Y="124"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../library_2020/bc_guardian.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="31"/>
+        <CursorPos X="44" Y="38"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="314"/>
+        <CursorPos X="20" Y="322"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/lists.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="695"/>
+        <CursorPos Y="700"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="11" HistoryIndex="10">
+      <Position1>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="10"/>
+      </Position1>
+      <Position2>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="35" Column="52" TopLine="31"/>
+      </Position2>
+      <Position3>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="39" Column="10" TopLine="31"/>
+      </Position3>
+      <Position4>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="58" Column="91" TopLine="48"/>
+      </Position4>
+      <Position5>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="314" Column="17" TopLine="308"/>
+      </Position5>
+      <Position6>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="43" Column="17" TopLine="32"/>
+      </Position6>
+      <Position7>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="81" Column="16" TopLine="72"/>
+      </Position7>
+      <Position8>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="45" Column="24" TopLine="36"/>
+      </Position8>
+      <Position9>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="321" Column="19" TopLine="314"/>
+      </Position9>
+      <Position10>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="322" Column="20" TopLine="314"/>
+      </Position10>
+      <Position11>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="45" Column="18" TopLine="37"/>
+      </Position11>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
