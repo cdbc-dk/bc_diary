@@ -3,11 +3,12 @@
   <ProjectSession>
     <Version Value="11"/>
     <BuildModes Active="Default"/>
-    <Units Count="6">
+    <Units Count="10">
       <Unit0>
         <Filename Value="dayli_diary.lpr"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="5"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="4"/>
         <CursorPos X="18" Y="8"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
@@ -17,24 +18,22 @@
         <IsPartOfProject Value="True"/>
         <ComponentName Value="frmDailyDiary"/>
         <ResourceBaseClass Value="Form"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="65"/>
-        <CursorPos X="16" Y="69"/>
+        <TopLine Value="19"/>
+        <CursorPos X="17" Y="29"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="../library_2020/bc_guardian.pas"/>
-        <EditorIndex Value="4"/>
-        <TopLine Value="31"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="38"/>
         <CursorPos X="44" Y="38"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit2>
       <Unit3>
         <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="4"/>
         <TopLine Value="315"/>
         <CursorPos Y="330"/>
         <UsageCount Value="10"/>
@@ -42,21 +41,53 @@
       </Unit3>
       <Unit4>
         <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/lists.inc"/>
-        <EditorIndex Value="2"/>
-        <TopLine Value="686"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="755"/>
         <CursorPos X="52" Y="705"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit4>
       <Unit5>
         <Filename Value="/usr/share/fpcsrc/rtl/objpas/rtlconst.inc"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
         <CursorPos X="36" Y="17"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit5>
+      <Unit6>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-base/src/blowfish.pp"/>
+        <UnitName Value="BlowFish"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="421"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="objects/bc_observer.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="13"/>
+        <CursorPos X="38" Y="13"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../library_2020/bc_template_new_unit.pas"/>
+        <UnitName Value="template_new_unit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../library_2020/bc_mtlinklist.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="625"/>
+        <CursorPos Y="633"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit9>
     </Units>
-    <JumpHistory Count="17" HistoryIndex="16">
+    <JumpHistory Count="22" HistoryIndex="21">
       <Position1>
         <Filename Value="lfm_main.pas"/>
         <Caret Line="10"/>
@@ -122,9 +153,29 @@
         <Caret Line="705" Column="52" TopLine="686"/>
       </Position16>
       <Position17>
-        <Filename Value="/usr/share/fpcsrc/rtl/objpas/rtlconst.inc"/>
-        <Caret Line="117" Column="3" TopLine="109"/>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="69" Column="16" TopLine="74"/>
       </Position17>
+      <Position18>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="45" Column="22" TopLine="37"/>
+      </Position18>
+      <Position19>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="29" Column="15" TopLine="22"/>
+      </Position19>
+      <Position20>
+        <Filename Value="objects/bc_observer.pas"/>
+        <Caret Line="40" Column="12" TopLine="30"/>
+      </Position20>
+      <Position21>
+        <Filename Value="objects/bc_observer.pas"/>
+        <Caret Line="51" Column="20" TopLine="43"/>
+      </Position21>
+      <Position22>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="29" Column="17" TopLine="19"/>
+      </Position22>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>

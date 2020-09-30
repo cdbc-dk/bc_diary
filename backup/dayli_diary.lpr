@@ -11,6 +11,7 @@ uses
 
 begin
   RequireDerivedFormResource:=True;
+  Application.Title:='Dayli Diary';
   Application.Scaled:=True;
   Application.Initialize;
   Application.CreateForm(TfrmDailyDiary, frmDailyDiary);
