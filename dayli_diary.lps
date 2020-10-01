@@ -18,6 +18,7 @@
         <IsPartOfProject Value="True"/>
         <ComponentName Value="frmDailyDiary"/>
         <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
         <TopLine Value="19"/>
         <CursorPos X="17" Y="29"/>
         <UsageCount Value="20"/>
@@ -65,7 +66,7 @@
       <Unit7>
         <Filename Value="objects/bc_observer.pas"/>
         <EditorIndex Value="2"/>
-        <TopLine Value="13"/>
+        <TopLine Value="55"/>
         <CursorPos X="38" Y="13"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
@@ -79,7 +80,6 @@
       </Unit8>
       <Unit9>
         <Filename Value="../library_2020/bc_mtlinklist.pas"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <TopLine Value="625"/>
         <CursorPos Y="633"/>
