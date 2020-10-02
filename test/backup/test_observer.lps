@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="test_observer.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="18" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="lfm_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="68"/>
+        <CursorPos X="35" Y="71"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../../library_2020/bc_mtlinklist.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="666"/>
+        <CursorPos X="60" Y="612"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../objects/bc_observer.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="103"/>
+        <CursorPos X="31" Y="107"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../library_2020/bc_guardian.pas"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../library_2020/bc_types.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <CursorPos X="2" Y="64"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="/usr/lib64/lazarus/lcl/lcltype.pp"/>
+        <UnitName Value="LCLType"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="520"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="/usr/share/fpcsrc/rtl/linux/sysosh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="27" Y="28"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="849"/>
+        <CursorPos X="3" Y="284"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="16" HistoryIndex="15">
+      <Position1>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="9" Column="16"/>
+      </Position1>
+      <Position2>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="10" Column="14" TopLine="3"/>
+      </Position2>
+      <Position3>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="24" Column="20" TopLine="12"/>
+      </Position3>
+      <Position4>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="9" Column="15"/>
+      </Position4>
+      <Position5>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="26" Column="9" TopLine="21"/>
+      </Position5>
+      <Position6>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="47" Column="21" TopLine="43"/>
+      </Position6>
+      <Position7>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="9" Column="10"/>
+      </Position7>
+      <Position8>
+        <Filename Value="../../library_2020/bc_mtlinklist.pas"/>
+        <Caret Line="98" Column="54" TopLine="613"/>
+      </Position8>
+      <Position9>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="9" Column="6" TopLine="16"/>
+      </Position9>
+      <Position10>
+        <Filename Value="../../library_2020/bc_mtlinklist.pas"/>
+        <Caret Line="107" Column="38" TopLine="97"/>
+      </Position10>
+      <Position11>
+        <Filename Value="../../library_2020/bc_mtlinklist.pas"/>
+        <Caret Line="17" Column="14" TopLine="13"/>
+      </Position11>
+      <Position12>
+        <Filename Value="../../library_2020/bc_mtlinklist.pas"/>
+        <Caret Line="616" Column="52" TopLine="581"/>
+      </Position12>
+      <Position13>
+        <Filename Value="../../library_2020/bc_mtlinklist.pas"/>
+        <Caret Line="103" Column="21" TopLine="96"/>
+      </Position13>
+      <Position14>
+        <Filename Value="../../library_2020/bc_mtlinklist.pas"/>
+        <Caret Line="637" Column="43" TopLine="621"/>
+      </Position14>
+      <Position15>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="73" Column="40" TopLine="64"/>
+      </Position15>
+      <Position16>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="27" Column="9" TopLine="18"/>
+      </Position16>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
