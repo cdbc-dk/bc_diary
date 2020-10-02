@@ -4,5 +4,31 @@ object Form1: TForm1
   Top = 124
   Width = 624
   Caption = 'Test Observer'
+  ClientHeight = 379
+  ClientWidth = 624
   LCLVersion = '2.0.4.0'
+  object TrackBar1: TTrackBar
+    Left = 38
+    Height = 41
+    Top = 12
+    Width = 532
+    Position = 0
+    TabOrder = 0
+  end
+  object ProgressBar1: TProgressBar
+    Left = 496
+    Height = 20
+    Top = 184
+    Width = 100
+    Orientation = pbVertical
+    TabOrder = 1
+  end
+  object Edit1: TEdit
+    Left = 33
+    Height = 29
+    Top = 71
+    Width = 279
+    TabOrder = 2
+    Text = 'start -> enter a number higher than 0'
+  end
 end

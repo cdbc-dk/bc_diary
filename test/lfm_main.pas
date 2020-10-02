@@ -6,7 +6,7 @@ interface
 
 uses
   Classes, SysUtils, Forms, Controls, Graphics, Dialogs,
-  LCLType,
+  LCLType, ComCtrls, StdCtrls,
   bc_guardian,
   bc_mtlinklist,
   bc_observer;
@@ -33,7 +33,13 @@ type
   end;
 
 {------------------------------------------------------------}
+
+  { TForm1 }
+
   TForm1 = class(TForm)
+    Edit1: TEdit;
+    ProgressBar1: TProgressBar;
+    TrackBar1: TTrackBar;
   private
 
   public
@@ -74,6 +80,7 @@ end;
 function TbcObservedStack.Pop: TObject;
 begin
   Result:= TObject(_Pop);
+  fSubject.Notify(pointer(Result),lnExtracted);
 end;
 
 procedure TbcObservedStack.AttachObserver(anObserver: TObject);
